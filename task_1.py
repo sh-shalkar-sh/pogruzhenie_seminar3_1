@@ -17,3 +17,6 @@ def find_dubl(my_list):
 my_list = [1, 2, 2, 3, 4, 4, 5, 5, 5, 7, 8, 9, 8]
 result = find_dubl(my_list)
 print(result)
+
+
+

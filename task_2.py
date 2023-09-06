@@ -12,3 +12,4 @@ def pack_backpack(items, max_weight):
 items = {'мясо': 1, 'вода': 2, 'хлеб': 3, 'удочка': 4, 'крем': 5, 'арбуз': 6}
 max_weight = 15
 print(pack_backpack(items, max_weight))
+

@@ -24,3 +24,4 @@ most_words = my_count.most_common(10)
 
 for i, j in most_words:
     print(f'Слово "{i}" повторяется {j} раз')
+
